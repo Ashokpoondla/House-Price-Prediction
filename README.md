@@ -79,12 +79,6 @@ House-Price-Prediction/
 
 ---
 
-## 📸 Project Screenshots
-
-Screenshots of visualizations and model outputs will be added here.
-
----
-
 ## 🔮 Future Improvements
 
 - Hyperparameter Tuning
