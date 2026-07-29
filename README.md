@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%">
+</p>
+
+
 # 🏠 House Price Prediction using Machine Learning
 
 A Machine Learning project that predicts house prices based on property features using multiple regression algorithms. This project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and model comparison.
