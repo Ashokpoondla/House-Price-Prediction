@@ -83,9 +83,25 @@ House-Price-Prediction/
 
 - Hyperparameter Tuning
 - Cross Validation
-- XGBoost
 - LightGBM
 - Streamlit Deployment
+
+---
+
+## 🏆 Results
+
+The project compares multiple regression algorithms for predicting house prices.
+
+| Model | MAE | RMSE | R² Score |
+|------|------:|------:|------:|
+| **XGBoost** ⭐ | **17,054.11** | **26,417.55** | **0.9090** |
+| Random Forest | 17,519.71 | 28,647.75 | 0.8930 |
+| Decision Tree | 27,088.63 | 41,079.41 | 0.7800 |
+| Linear Regression | 20,384.19 | 51,992.05 | 0.6476 |
+
+### Best Model
+
+✅ **XGBoost** achieved the best overall performance with an **R² Score of 0.9090**, the **lowest MAE**, and the **lowest RMSE**, making it the most accurate model for this dataset.
 
 ---
 
